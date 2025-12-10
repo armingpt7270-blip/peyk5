@@ -1,0 +1,5 @@
+{
+  "name": "Courier Dispatch Pro",
+  "description": "A comprehensive frontend for a motorcycle courier management system, featuring separate dashboards for couriers and admins, simulated real-time order management, and an integrated AI chat assistant. The UI is designed with a modern, responsive, glassmorphism aesthetic.",
+  "requestFramePermissions": []
+}
